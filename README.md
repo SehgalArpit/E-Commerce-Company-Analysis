@@ -12,10 +12,6 @@ This repository contains the Power BI dashboards, SQL queries, and related data 
   - [Website Dashboard](#website-dashboard)
   - [Manager Dashboard](#manager-dashboard)
 - [Data Source](#data-source)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
